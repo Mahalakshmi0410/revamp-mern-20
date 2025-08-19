@@ -1,0 +1,12 @@
+body{
+    background-image: url("https://ik.imagekit.io/mahalakshmi/Revamp%20mern%2020/image.png?updatedAt=1755539535649");
+    background-size: cover;
+    background-repeat: no-repeat;}
+button{
+    color:rgb(216, 128, 39);
+    font-size: 20px;
+    text-align:center;
+    background-color: orange;
+    border: none;
+    
+}
