@@ -1,12 +1,19 @@
-body{
-    background-image: url("https://ik.imagekit.io/mahalakshmi/Revamp%20mern%2020/image.png?updatedAt=1755539535649");
-    background-size: cover;
-    background-repeat: no-repeat;}
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
 button{
     color:rgb(216, 128, 39);
     font-size: 20px;
     text-align:center;
     background-color: orange;
-    border: none;
-    
+    border: none;}
+.container{
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    text-align: center;
+    background-image: url("https://ik.imagekit.io/mahalakshmi/Revamp%20mern%2020/image.png?updatedAt=1755539535649") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    font-size: 15px;
+    width: 300px;
+    height: 600px;
 }
